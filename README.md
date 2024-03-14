@@ -1,1 +1,8 @@
-# drag-drop-card
+# Drag & Drop Card
+
+- Drag and Drop Card Using HTML CSS And JavaScript
+- Developed with the SortableJS library.
+- Includes links to social networks.
+- Check it out [LIVE]()
+
+![preview img](/preview.png)
